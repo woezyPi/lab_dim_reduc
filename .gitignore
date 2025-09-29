@@ -2,3 +2,7 @@
 ../envlab/
 ../V1.py
 ../README.md
+__pycache__/
+*.pyc
+.vscode/
+outputs/
